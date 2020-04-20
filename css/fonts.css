@@ -17,4 +17,9 @@
   font-family: "UniversalLightRegular";
   src: url("../fonts/Universal Light Regular.ttf");
 }
+
+@font-face {
+  font-family: "Arial";
+  src: url("../fonts/ofont.ru_Arial");
+}
 /*# sourceMappingURL=fonts.css.map */
